@@ -1,4 +1,5 @@
 # **Creación de tutorial Git**
+!\[my badge\](ttps://badgen.net/badge/hello/world/red?icon=twitter)
 - Some basic Git commands are :+1::
     ```
     git status
