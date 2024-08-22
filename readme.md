@@ -1,5 +1,5 @@
 # **Creación de tutorial Git**
-!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
+![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 - Some basic Git commands are :+1::
     ```
     git status
